@@ -14,11 +14,11 @@ A flexible R function to visualize financial returns data in a calendar heatmap 
 
 ### Full Year Calendar Heatmap
 
-![Annual Calendar Heatmap](images/annual_heatmap.png)
+![Annual Calendar Heatmap](annual_heatmap.png)
 
 ### Quarterly Calendar Heatmap
 
-![Quarterly Calendar Heatmap](images/quarterly_heatmap.png)
+![Quarterly Calendar Heatmap](quarterly_heatmap.png)
 
 ## Installation
 
